@@ -1,7 +1,7 @@
 # Askadia skill
 
-[Askadia](https://askadia.ai) shows whether ChatGPT recommends your product when buyers ask what to buy: the
-questions, ChatGPT's answers word for word, who it recommends instead, and the pages it reads. This skill lets your
+[Askadia](https://askadia.ai) shows whether AI assistants recommend your product when buyers ask what to buy (ChatGPT
+today, more AI engines next): the questions, the answers word for word, who it recommends instead, and the pages it reads. This skill lets your
 agent (Claude Code, Codex, Cursor and others) use it: read how you're doing, find where you lose and why, review the
 questions you track, and make changes when you say so.
 
@@ -20,7 +20,7 @@ Claude Code, as a plugin:
 /plugin install askadia@askadia
 ```
 
-Then ask your agent how your product is doing in ChatGPT. The first time, it shows you a link to approve its access
+Then ask your agent how your product is doing in AI search. The first time, it shows you a link to approve its access
 to your Askadia account.
 
 ## How it works

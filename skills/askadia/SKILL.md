@@ -1,6 +1,6 @@
 ---
 name: askadia
-description: Check whether ChatGPT recommends the user's product, and act on it, with Askadia. Which buying questions ChatGPT answers without the product, who it recommends instead, the pages it cites, and reviewing or changing the questions they track. Use when the user mentions Askadia, ChatGPT or AI recommending their product, AI visibility, or their tracked questions.
+description: Check whether AI assistants recommend the user's product, and act on it, with Askadia (ChatGPT today, more AI engines next). Which buying questions the AI answers without the product, who it recommends instead, the pages it cites, and reviewing or changing the questions they track. Use when the user mentions Askadia, AI search or AI visibility, LLM or GEO/AEO visibility, being recommended by ChatGPT, Claude, Perplexity, Gemini or Google's AI Overviews, or their tracked questions.
 ---
 
 # Askadia

@@ -1,6 +1,6 @@
 {
   "name": "askadia",
-  "description": "Check whether ChatGPT recommends your product, and act on it, with Askadia.",
+  "description": "Check whether AI assistants (ChatGPT today) recommend your product, and act on it, with Askadia.",
   "homepage": "https://askadia.ai/docs/api",
   "repository": "https://github.com/getaskadia/skills",
   "license": "MIT",
