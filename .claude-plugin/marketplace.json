@@ -1,0 +1,12 @@
+{
+  "name": "askadia",
+  "description": "Askadia for your agent: does ChatGPT recommend your product, and what to do about it.",
+  "owner": { "name": "Askadia", "email": "getaskadia@gmail.com" },
+  "plugins": [
+    {
+      "name": "askadia",
+      "source": "./",
+      "description": "Check whether ChatGPT recommends your product, and act on it, with Askadia."
+    }
+  ]
+}
