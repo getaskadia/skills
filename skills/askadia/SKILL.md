@@ -11,4 +11,4 @@ Askadia's instructions grow with its features, so read the current ones each tim
 curl -s https://askadia.ai/docs/api.md
 ```
 
-Then follow them: connect if this project has no key yet (`ASKADIA_API_KEY` in its secrets; the user approves a link), keep the user in the loop, and change anything only on their word.
+Then follow them: connect if this project has no key yet (`ASKADIA_API_KEY` in its secrets; the user approves a link), and keep the user in the loop: how much you do without asking is their choice (the docs say how).
